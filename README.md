@@ -1,9 +1,15 @@
 ## Teachable Machine Image Project Git Hosting
-=============
-https://mooncastleyt.github.io/tm/
- #1.사진 구별
- ##2.
- ##3.
+---------------------------------------------
+<a>https://mooncastleyt.github.io/tm/
+주제
+=====
+<ul>. 티처블 머신을 사용하여 을 사용해서 사람 닯은 동물찾기
+ 
+ # 1. 사진 구별
+ ##2.사진 대입
+ ##3.사진 비교
+ <img>![image](https://user-images.githubusercontent.com/84504091/119650996-7049fe00-be5f-11eb-9e2d-acd62d1202c2.png)
+
  
  
  
